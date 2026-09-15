@@ -5,9 +5,9 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        insert_pos = 0
-        
-        for i in range(len(nums)):
-            if nums[i] != 0:
-                nums[insert_pos], nums[i] = nums[i], nums[insert_pos]
-                insert_pos += 1
+        writer=0
+        for reader in range(len(nums)):
+            if nums[reader]!=0:
+                nums[reader],nums[writer]=nums[writer],nums[reader]
+                writer +=1
+                
