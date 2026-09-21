@@ -32,10 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/MuqeetBuilds/LeetCode-DSA-Solutions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/MuqeetBuilds/LeetCode-DSA-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MuqeetBuilds/LeetCode-DSA-Solutions/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/MuqeetBuilds/LeetCode-DSA-Solutions/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/MuqeetBuilds/LeetCode-DSA-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MuqeetBuilds/LeetCode-DSA-Solutions/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/MuqeetBuilds/LeetCode-DSA-Solutions/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
